@@ -1,0 +1,63 @@
+1.What is an algorithm?
+
+2.Explain linear and non linear data structures with example.
+
+3.Mention some javascript array method?
+
+4.
+let arr = [1,2,3,4,5]
+let arr1 = [6,7,8,9,10]
+let arr2 = [11,12,13,14,15]
+
+merge three arrays using JS array method.
+
+5.Print the result
+let arr = [2,5,7,4,6,1]
+let result = arr.some(item => item > 8)
+let result2 = arr.some(item => item % 3 == 0)
+
+console.log(result) 
+console.log(result2) 
+
+***************************************************************************
+6.Find output?
+let arr = [2,5,7,4,6,1]
+let result = arr.includes(4)
+let result2 = arr.includes(9)
+
+console.log(result) 
+console.log(result2) 
+
+7.
+let arr1 = ['This','is','so','awesome']
+let result2 = arr1.join(' ') // giving space as a seprator
+let result3 = arr1.join('-') // giving - as a seprator
+
+console.log(result2)  
+console.log(result3) 
+
+8.What is stack in data structure. Give some example
+
+9.Mention the operations in stack?
+
+10.What is Queue?
+// queue is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle. 
+
+11.List some Queue real-life applications 
+//Serving requests on a single shared resource, like a printer, CPU task scheduling etc.
+In real life scenario, Call Center phone systems uses Queues to hold people calling them in an order, until a service representative is free.
+Handling of interrupts in real-time systems. The interrupts are handled in the same order as they arrive i.e First come first served.
+
+12.Mention the operations in Queue data structure
+//The process to add an element into queue is called Enqueue and the process of removal of an element from queue is called Dequeue.
+
+13.What are the operations that can be performed on a data-structures?
+//Following operations can be performed –
+ Insertion: Adding a new data item.
+Deletion: Deleting the existing data item.
+Traversal: Accessing each data item.
+Searching: Finding a particular data item.
+Sorting: Arranging the data item in a particular sequence.
+  
+
+
